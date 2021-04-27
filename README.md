@@ -8,7 +8,7 @@ create file "private.py" with: <br />
 server_name = example 'smtp.poczta.onet.pl' <br />
 email_username = 'example@example.pl' <br />
 password = 'example_password' <br />
-secret_key = 'example_of_secret_key'
+secret_key = 'secret_key'
 
 
 
